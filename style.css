@@ -1,0 +1,22 @@
+
+.h1 {
+
+    font-family: 'Ruge Boogie', cursive;
+}
+body {
+    background-image: url("http://a.rgbimg.com/users/e/ea/ear_candy/600/2dRHyN5.jpg");
+    
+    p {
+       color:red
+   }
+   .bio { border: 2px solid red ;
+          
+          
+          
+          
+       
+   }
+   h1 {
+       color:red
+    
+   }
